@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH
+	xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2015-04-19T14:16:38Z</responseDate>
+	<request verb="ListRecords" set="publication:osulwps"  metadataPrefix="oai_dc" >http://law.bepress.com/do/oai/</request>
+	
+	<ListRecords>
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1003</identifier>
+		<datestamp>2013-07-02T02:41:58Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Conceptualizing Blakely</dc:title>
+<dc:creator>Berman, Douglas A.</dc:creator>
+<dc:description>The Supreme Court’s decision in Blakely v. Washington has generated impassioned judicial and academic criticisms, perhaps because the “earthquake” ruling seems to announce a destructive rule in search of a sound principle.  Read broadly, the jury trial rule articulated in Blakely might be thought to cast constitutional doubt on any and all judicial fact-finding at sentencing.  Yet judicial fact-finding at sentencing has a long history, and such fact-finding has been an integral component of modern sentencing reforms and seems critical to the operation of guideline sentencing.  The caustic reaction to Blakely reflects the fact that the decision has sowed confusion about constitutionally permissible sentencing procedures — and risks impeding the continued development of sound sentencing reforms — without stating a clear principle to justify the disruption it has caused.
+But extreme concerns about Blakely are the result, in my view, of a failure to appreciate the decision’s core principle, as well as from the Supreme Court’s failure to articulate the proper limits of that principle.  I see a fundamental — and fundamentally sound — principle at work in Blakely, and I believe the Blakely rule, once properly conceptualized and defined, is neither radical nor necessarily destructive to the project and goals of modern sentencing reforms.
+The fundamental and sound principle at work in the Blakely line of cases, as well as the principle’s proper limit, centers on an essential offense/offender distinction.  The Constitution frames the jury trial right in terms of  “crimes,” which are the basis for a “prosecution” of “the accused.”  This language connotes that the jury trial right attaches to all offense conduct for which the state seeks to impose criminal punishment, but the language also connotes that the jury trial right does not attach to any offender characteristics which the state may deem relevant to criminal punishment.  That is, all facts and only those facts relating to offense conduct which the law makes the basis for criminal punishment are subject to the jury trial right; such facts are in effect the essential parts of those “crimes” which the state wishes to be able to allege against “the accused” in a “criminal prosecution.”</dc:description>
+<dc:date>2004-12-14T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art4</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1003&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Criminal Law and Procedure</dc:subject>
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Criminal Law</dc:subject>
+<dc:subject>Criminal Procedure</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1004</identifier>
+		<datestamp>2013-07-02T00:13:49Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Paperless Chase:  Electronic Voting and Democratic Values</dc:title>
+<dc:creator>Tokaji, Daniel P.</dc:creator>
+<dc:description>The 2000 election ignited a fierce controversy over the machinery used for voting.  Civil rights advocates have called for the replacement of outdated paper-based voting equipment, like the infamous “hanging chad” punch card.  Yet the introduction of paperless technology, especially  electronic “touchscreen” machines, has induced widespread concern that software might be rigged to alter election results.  This article examines the debate over electronic voting, which raises fundamental questions about the democratic values that should guide the administration of elections.  It frames the debate by defining four equality norms embodied in federal voting rights laws and the Constitution.  Electronic voting has the potential to advance racial equality, disability access, and multilingual access.  At the same time, there are legitimate concerns surrounding the implementation of present-generation technology.  The proposed “voter verified paper audit trail” is unlikely to resolve these concerns, though other measures may be taken to promote security and transparency.  The article concludes that  legislatures and courts have important roles to play in the transformation of voting technology, but that the most important decisions lie in the hands of state and local election officials.  It suggests a legal structure that will protect basic voting rights while allowing for innovation and experimentation.  Most important, the article urges that election reform no longer be viewed as a once-in-a-generation occurrence, but as an ongoing process that should proceed for as long as voting technology continues to improve.</dc:description>
+<dc:date>2004-12-27T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art5</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1004&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1005</identifier>
+		<datestamp>2013-07-02T02:20:52Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Occupation Failures and the Legality of Armed Conflict: The Case of Iraqi Cultural Property</dc:title>
+<dc:creator>O&#39;Connell, Mary Ellen</dc:creator>
+<dc:description>US Secretary of Defense Donald Rumsfeld dismissed the looting of the Iraqi National Museum in April 2003 by remarking, “stuff happens.”  In doing so, he gave an early indication that in planning to invade Iraq, the Bush Administration failed to take seriously the legal obligations of an occupying power.  Occupying powers have a variety of binding legal obligations, including obligations to stop looting, protect cultural property, and protect persons in detention.  Yet, the Administration sent a wholly inadequate force to fulfill those obligations, and, more seriously, the force received no direct and imperative orders to do so. As a result, in addition to the questionable basis for initiating war the war in the first place, the Administration conducted it in a way that amounts to an independent ground for concluding the decision to invade Iraq on March 19, 2003, violated international law.
+This article focuses on the Administration’s failure to protect Iraqi cultural property as one clear example of the Administration’s disregard for its obligations.  The article discusses cultural property and the long, continuous development of legal principles, through treaties and rules of customary international law for the protection of cultural property in wartime—developments in which the United States has played a leading role.  On the eve of the Iraq invasion, no US leader could have been in doubt about the legal requirements to stop looting and protect cultural property.  Yet, we find little evidence of any preparation to do so.  The article analyzes the literature on Iraqi war planning to understand why this lapse occurred.  It further analyzes the consequences of this failures, including: the possibility that individuals will be held accountable; the high cost to the US associated with the war, and Iraq’s right to claim reparations, including in-kind reparations from US holdings of Iraqi cultural property.</dc:description>
+<dc:date>2004-12-27T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art6</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1005&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Arts and Entertainment</dc:subject>
+<dc:subject>Comparative and Foreign Law</dc:subject>
+<dc:subject>Human Rights Law</dc:subject>
+<dc:subject>International Law</dc:subject>
+<dc:subject>Military, War and Peace</dc:subject>
+<dc:subject>Arts and Entertainment</dc:subject>
+<dc:subject>Comparative and Foreign Law</dc:subject>
+<dc:subject>Human Rights Law</dc:subject>
+<dc:subject>International Law</dc:subject>
+<dc:subject>Military, War and Peace</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1006</identifier>
+		<datestamp>2013-07-02T23:38:43Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The new canon:  Using or misusing Foreign Law to Decide Domestic Intellectual Property Claims</dc:title>
+<dc:creator>Lee, Edward S.</dc:creator>
+<dc:description>This Article provides the first in-depth analysis of the use of foreign authorities to resolve issues related to domestic statutes, particularly focusing on intellectual property (IP) statutes.  The study of IP statutes provides a fertile area of research because of the increased pressures for international protection of IP.  The Article criticizes the current approach U.S. courts have taken to using foreign authorities in this area, which can best be described as ad hoc.  The Article then sets forth a framework by which U.S. courts can decide, more systematically, when to rely on foreign authorities in IP cases.  The Article fills a major gap in the current debate over the use of foreign authorities in domestic cases.  Most of the recent contributions on this controversial subject from legal scholars, lawmakers, and Supreme Court justices have been fixated on constitutional law.  It is at least as important, however, to ask whether U.S. courts may rely on foreign authorities in resolving claims arising under domestic statutes.  This Article aims to answer that question for the field of intellectual property, where citations to foreign authorities are becoming more frequent.</dc:description>
+<dc:date>2004-12-27T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art8</dc:identifier>
+<dc:identifier>http://law.bepress.com/context/osulwps/article/1006/type/native/viewcontent</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Comparative and Foreign Law</dc:subject>
+<dc:subject>Intellectual Property Law</dc:subject>
+<dc:subject>International Law</dc:subject>
+<dc:subject>Comparative and Foreign Law</dc:subject>
+<dc:subject>Intellectual Property</dc:subject>
+<dc:subject>International Law</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1007</identifier>
+		<datestamp>2013-07-02T02:41:52Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Justice in the Palestine-Israel Conflict</dc:title>
+<dc:creator>Quigley, John B.</dc:creator>
+<dc:description>Military-territorial conflicts are typically addressed by the international community on the basis of considerations of justice, meaning relevant standards accepted by the community of states for conduct among states and peoples. If such standards are followed, resulting agreements stand a greater chance of providing for a lasting peace. In the conflict over historic Palestine, considerations of justice have had to compete with considerations of major-power policy, from early twentieth century to the present. When negotiations re-commence, the international community should ensure that they be conducted with considerations of justice at the forefront. If that approach is taken, in particular regarding territorial disposition, Israel&#39;s settlements in Palestinian territory, and repatriation of the displaced, a peace agreement may be reached that will stand the test of time.</dc:description>
+<dc:date>2004-12-27T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/msword</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art7</dc:identifier>
+<dc:identifier>http://law.bepress.com/context/osulwps/article/1007/type/native/viewcontent</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Human Rights Law</dc:subject>
+<dc:subject>International Law</dc:subject>
+<dc:subject>Human Rights Law</dc:subject>
+<dc:subject>International Law</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1008</identifier>
+		<datestamp>2013-07-02T02:17:13Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Disability Integration Presumption:  Thirty Years Later</dc:title>
+<dc:creator>Colker, Ruth</dc:creator>
+<dc:description>The fiftieth anniversary of the Brown v. Board of Education decision has spurred a lively debate about the merits of “integration.”  This article brings that debate to a new context – the integration presumption under the Individuals with Disabilities Education Act (“IDEA”).  The IDEA has contained an “integration presumption” for more than thirty years under which school districts should presumptively educate disabled children with children who are not disabled in a fully inclusive educational environment.  This article traces the history of this presumption and argues that it was borrowed from the racial civil rights movement without any empirical justification.  In addition, the article demonstrates that Congress created this presumption to mandate the closing of inhumane, disability-only educational institutions but not to require fully inclusive education for all children with disabilities. This article examines the available empirical data and concludes that such evidence cannot justify a presumption for a fully inclusive educational environment for children with mental retardation, emotional or mental health impairments, or learning disabilities.  While this article recognizes that structural remedies, such as an integration presumption, can play an important role in achieving substantive equality, such remedies also need periodic re-examination.  Modification of the integration presumption can help it better serve the substantive goal of according an adequate and appropriate education to the full range of children who have disabilities while still protecting disabled children from inhumane, disability-only educational warehouses.</dc:description>
+<dc:date>2005-03-25T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art9</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1008&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Education Law</dc:subject>
+<dc:subject>Human Rights Law</dc:subject>
+<dc:subject>Juveniles</dc:subject>
+<dc:subject>Social Welfare</dc:subject>
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Education Law</dc:subject>
+<dc:subject>Human Rights Law</dc:subject>
+<dc:subject>Juveniles</dc:subject>
+<dc:subject>Social Welfare Law</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1017</identifier>
+		<datestamp>2013-07-02T00:04:28Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Shadow of Professor Kingsfield: Contemporary Dilemmas Facing Women Law Professors</dc:title>
+<dc:creator>Chamallas, Martha</dc:creator>
+<dc:description>This essay discusses the predicament of women law professors in an era when the representation of women on law faculties has reached a “critical mass.” It explores three mechanisms for reproducing gender inequality: (1) self-fulfilling stereotypes, (2) gender-specific comparison groups, and (3) the accumulation of small disadvantages.  Chamallas uses stories from her own and colleagues’ experiences to illustrate contemporary forms of bias.</dc:description>
+<dc:date>2005-05-01T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art17</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1017&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Legal Education</dc:subject>
+<dc:subject>Women</dc:subject>
+<dc:subject>Legal Education</dc:subject>
+<dc:subject>Women</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1016</identifier>
+		<datestamp>2013-07-03T21:50:29Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Civil Rights in Ordinary Tort Cases: Race, Gender, and the Calculation of Economic Loss</dc:title>
+<dc:creator>Chamallas, Martha</dc:creator>
+<dc:description>This article explores race and sex bias in the computation of damages for loss of future earning capacity, an important component of economic loss in personal injury cases. It analyzes recent cases in the United States and in Canada which reject the use of race and sex-based tables to determine awards for female and minority plaintiffs and explains the method used by the special master in the September 11th Compensation Fund. Chamallas explores objections to reform -- from both the “right” and the “left” –- and makes the case for connecting civil rights principles to civil litigation.</dc:description>
+<dc:date>2005-05-01T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art16</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1016&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Remedies</dc:subject>
+<dc:subject>Torts</dc:subject>
+<dc:subject>Women</dc:subject>
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Remedies</dc:subject>
+<dc:subject>Torts</dc:subject>
+<dc:subject>Women</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1019</identifier>
+		<datestamp>2013-07-02T02:51:06Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Ambiguity and Policy Making: A Cognitive Approach to Reconciling Chevron and Mead</dc:title>
+<dc:creator>Shane, Peter M.</dc:creator>
+<dc:description>When decided, both Chevron v. Natural Resources Defense Council, 467 U.S. 837 (1984), and United States v. Mead, 533 U.S. 218 (2001) were trumpeted, whether by supporters or critics, as marking substantial changes in the law governing judicial review of agency statutory interpretation.  This essay argues that what the Court actually decided in each case was entirely consistent with the fabric of the law of judicial review of administrative action as woven during earlier decades.  Unfortunately, however, the Court&#39;s rhetoric in both opinions is confusing and unhelpful at key points, creating impressions of substantial changes in the law when none was being made.  As a result, agencies, judges, and lawyers are better served by focusing less on what Chevron and Mead say and more on what they decided, and treating both decisions as elaborating a fairly straightforward approach based on (a) judicial reaction to the clarity of the statute and (b) whether the statute at issue is intended to create an opportunity for genuine agency policy making.  In particular, a reviewing judge should first determine whether the statute in question is susceptible to more than one plausible legal reading, and, if only one plausible legal reading is available, the judge should bind the agency to it.  If, however, more than one plausible reading is available, the judge should then ask whether the ambiguity in the statute signals an occasion for policy making.  In other words, is the agency, in filling the statutory gap at issue, intended to balance expert judgment and relevant political values in order to accommodate the competing interests that need to be taken into account in order to further Congress&#39;s objectives in enacting the statute?  If so, then, so long as the agency has rationally identified any plausible statutory reading, the judge should consider herself duty-bound to defer to it.  If the statute does not contemplate significant agency policy making in its interpretation, then the court should ask itself a third question: Of the plausible readings available, does any appear to the court to be plainly more attractive than its competitors?  If not, then the court should likewise defer to an agency choice of any rational interpretation because the agency is the primary policy maker, and the court has no legal ground to prefer any alternative reading to the agency&#39;s own.  If, however, the court initially finds one plausible reading most compelling, then it retains the authority to impose that reading on the agency.  Before doing so, however, the court should pause, open-mindedly.  It should consider, if the agency has an alternative preference, whether the agency&#39;s reasoning is not in fact sufficient to make its alternative at least as attractive as the court&#39;s initial view.  In such a case, notwithstanding its own initial view, the court should deem itself persuaded by the agency&#39;s statutory reading.  This approach, which is guided by the judicial sense of statutory clarity and does not speak of ambiguities or certainties inherent in the statutory texts themselves, is the most straightforward reconciliation of Chevron and Mead.</dc:description>
+<dc:date>2005-05-15T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art19</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1019&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Administrative Law</dc:subject>
+<dc:subject>Administrative Law</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1018</identifier>
+		<datestamp>2013-07-02T02:59:13Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Turning GOLD into EPG:  Lessons from Low-Tech Democratic Experimentalism for Electronic Rulemaking and Other Ventures in Cyberdemocracy</dc:title>
+<dc:creator>Shane, Peter M.</dc:creator>
+<dc:description>Empowered Participatory Governance, or EPG, is a model of governance developed by Archon Fung and Erik Olin Wright that seeks to connect a set of normative commitments for strengthening democracy with a set of institutional design prescriptions intended to meet that objective.  It is derived partly from democratic theory and partly from the study of real-world attempts to institutionalize transformative strategies for democratizing social and political decision making.  This paper reviews Fung and Wright&#39;s recent volume, Deepening Democracy: Institutional Innovations in Empowered Participatory Governance, and considers the relevance of the authors&#39; and other contributors&#39; insights for the future of a phenomenon called &#34;electronic rulemaking.&#34; Electronic rulemaking is a species of government on-line deliberation, which I call &#34;GOLD,&#34; that seeks to facilitate greater citizen involvement in the formal processes of elaborating administrative rules to implement federal law.  Although the volume hardly mentions information and communications technologies at all, there readily appears an extraordinary fit between the capacities of new ICTs and the needs of EPG, in terms of both  accomplishing a supportive context and actually implementing the recommended institutional designs. Whether electronic rulemaking will prove a significant way station towards EPG is uncertain, but, given the promise of the EPG experimental agenda and the need to enlarge opportunities for meaningful citizen participation in decisions that affect their lives, EPG proponents should give more active consideration to the potential role of GOLD initiatives in achieving EPG aims.</dc:description>
+<dc:date>2005-05-15T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art18</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1018&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Administrative Law</dc:subject>
+<dc:subject>General Law</dc:subject>
+<dc:subject>Law and Society</dc:subject>
+<dc:subject>Law and Technology</dc:subject>
+<dc:subject>Politics</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+<dc:subject>Science and Technology</dc:subject>
+<dc:subject>Administrative Law</dc:subject>
+<dc:subject>Internet Law</dc:subject>
+<dc:subject>Law</dc:subject>
+<dc:subject>Law and Society</dc:subject>
+<dc:subject>Politics</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+<dc:subject>Science and Technology</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1013</identifier>
+		<datestamp>2013-07-02T02:11:36Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Foreword: Beyond Blakely and Booker: Pondering Modern Sentencing Process</dc:title>
+<dc:creator>Berman, Douglas A.</dc:creator>
+<dc:description>The Supreme Court’s landmark decision in Blakely v. Washington and its federal follow-up United States v. Booker are formally about the meaning and reach of the Sixth Amendment’s right to a jury trial.  But these decisions implicate and reflect, both expressly and implicitly, a much broader array of constitutional provisions and principles, in particular, the Due Process Clause of the Fifth and Fourteenth Amendments and the notice provision of the Sixth Amendment.  And the future structure and operation of modern sentencing systems may greatly depend on how courts and others approach the due process provisions and principles which lurk in the unexplored shadows of the Supreme Court’s decisions in Blakely and Booker.
+In this foreword, I explain why an important enduring question which emerges from the Supreme Court’s recent sentencing jurisprudence concerns whether, when and how procedural issues other than the Sixth Amendment’s jury trial right will be addressed after Blakely and Booker.  In Part I, I provide a brief account of modern sentencing reform and its neglect of an array of procedural issues.  Part II focuses upon the Supreme Court’s past and present jurisprudential struggles with procedural rights at sentencing.  Part III sketches considerations for courts and other key sentencing actors and institutions as they explore what process is due in modern sentencing systems.
+Part III concludes by suggesting that the pitched battle over the rights and results in Blakely and Booker reflect competing visions of what procedural concepts and norms will take center-stage as the Supreme Court considers the applicable constitutional rules for modern sentencing decision-making.  Justice Stevens leads a faction of the Court concerned about safeguarding procedural rights for defendants at sentencing, while Justice Breyer leads a faction of the Court concerned about ensuring that applicable procedures at sentencing serve the goal of sentencing uniformity.  But, with Justice Ginsburg having allied herself with both of these competing factions in Booker, the schizophrenic Booker ruling further obscures which principles should guide lower courts in considering the broad range of procedural issues beyond jury trial rights that follow in the wake of Blakely and Booker.</dc:description>
+<dc:date>2005-05-05T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art14</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1013&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Criminal Law and Procedure</dc:subject>
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Criminal Law</dc:subject>
+<dc:subject>Criminal Procedure</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1000</identifier>
+		<datestamp>2013-07-02T02:25:39Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Small Business and the False Dichotomies of Contract Law</dc:title>
+<dc:creator>Garvin, Larry</dc:creator>
+<dc:description>The article explores the classic consumer- merchant dichotomy from the vantage of small businesses.  Using empirical data and the psychology, economics, and management literature, it shows that small businesses, treated like large businesses throughout most of contract and commercial law, in fact behave more like consumers.  Small businesses lack the financial strength of large businesses.  They generally lack the information gathering ability of large businesses.  Finally, they generally are more prey to cognitive errors than are large businesses.  As a result, small businesses lose in two ways.  When they deal with consumers, they are presumed to have the power, information, and cognitive capacity of large firms.  The law thus obliges them to grant protections based on asymmetries that may not exist.  When they deal with large businesses, the law treats them as essentially equal, even though small businesses may suffer from the same disadvantages that require legal intervention for consumers.  The article considers the ways in which the law can deal with this false dichotomy and suggests some solutions, particularly in the way the law treats risk allocation.</dc:description>
+<dc:date>2004-09-01T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art1</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1000&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Commercial Law</dc:subject>
+<dc:subject>Consumer Protection Law</dc:subject>
+<dc:subject>Contracts</dc:subject>
+<dc:subject>Law and Economics</dc:subject>
+<dc:subject>Commercial Law</dc:subject>
+<dc:subject>Consumer Protection Law</dc:subject>
+<dc:subject>Contracts</dc:subject>
+<dc:subject>Law and Economics</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1012</identifier>
+		<datestamp>2013-07-02T02:30:32Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Rehnquist and Federalism: An Empirical Perspective</dc:title>
+<dc:creator>Colker, Ruth</dc:creator>
+<dc:creator>Scott, Kevin</dc:creator>
+<dc:description>We attempt to articulate a vision of federalism, particularly the Rehnquist version of federalism.  We find that there is little consistent thought on the role of the judiciary in protecting federalism.  This lack of consensus makes it difficult to predict the decisions federalists might make, but we attempt to outline Chief Justice Rehnquist&#39;s contributions to understanding the role courts should play in protecting federalism.  We then attempt to assess if Rehnquist adheres to his own vision of federalism.  Using his votes since his elevation to Chief Justice in 1986, we test several hypotheses designed to determine if Chief Justice Rehnquist demonstrates the respect for the balance between state and federal governments which he has articulated in so many of his opinions.  We generally find support for the proposition that Chief Justice Rehnquist adheres to the tenets of federalism.  We conclude that, while there is an ideological component to Chief Justice Rehnquist&#39;s jurisprudence, there also appears to be evidence of a sincere commitment to the protection of the line between national and state governments.</dc:description>
+<dc:date>2005-05-04T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art13</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1012&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Judges</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+<dc:subject>State and Local Government Law</dc:subject>
+<dc:subject>Constitutional Law</dc:subject>
+<dc:subject>Judges</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+<dc:subject>State and Local Government Law</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1010</identifier>
+		<datestamp>2013-07-02T02:35:32Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Two Unanswered Questions of Illinois v. Caballes: How to Make the World Safe for Binary Searches</dc:title>
+<dc:creator>Simmons, Ric</dc:creator>
+<dc:description>This Article discusses the recent Supreme Court decision Illinois v. Caballes, which held that the Fourth Amendment does not bar the use of drug-detection dogs, even in the absence of reasonable suspicion.  It argues that the Caballes case paves the way for widespread and indiscriminant use of a new type of surveillance known as a binary search.  A binary search is defined as a search which provides the law enforcement official with no information about the subject other than whether or not illegal activity is present.  Drug-detection dogs are one example of a binary search, but there are many others which are being developed, such as portable gun detectors or software protocols that sift through all e-mails passing through an internet service provider looking for child pornography.
+Since the Caballes case did very little in the way of defining binary searches and discussing the appropriate limitations (if any) on their use, the Article seeks provide some guidance to courts in evaluating the constitutionality of binary searches in the future.  The Article begins by discussing the history of the binary search doctrine, focusing on its application to drug-detection dogs, which up until now have been the most common form of binary search in use.  The Article then analyzes the Caballes decision itself, examining what it does and does not resolve about the constitutionality of binary searches.  Finally, the Article attempt to resolve the important unanswered questions in Caballes: first, how accurate does a surveillance technique have to be in order to be considered a binary search, and second, how does the Fourth Amendment prohibition against unreasonable seizures limit or prevent the widespread use of binary searches?</dc:description>
+<dc:date>2005-04-04T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art11</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1010&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Criminal Law and Procedure</dc:subject>
+<dc:subject>Criminal Law</dc:subject>
+<dc:subject>Criminal Procedure</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1009</identifier>
+		<datestamp>2013-07-02T02:41:58Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Brown’s Legacy:  The Promises and Pitfalls of Judicial Relief</dc:title>
+<dc:creator>Merritt, Deborah Jones</dc:creator>
+<dc:description>Brown v. Board of Education marked a turning point for both civil rights and judicial activism.  During the half century since Brown, social activists of all kinds have sought policy changes from the courts rather than legislatures.  That trend has produced social benefits but, over time, it has also shifted political power to elites.  This essay explores the possibility of retaining Brown&#39;s promise for racial equality while reinvigorating an electoral politics that would better represent many of the people Brown intended to benefit.</dc:description>
+<dc:date>2005-03-25T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art10</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1009&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Law and Society</dc:subject>
+<dc:subject>Politics</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+<dc:subject>Remedies</dc:subject>
+<dc:subject>Social Welfare</dc:subject>
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Law and Society</dc:subject>
+<dc:subject>Politics</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+<dc:subject>Remedies</dc:subject>
+<dc:subject>Social Welfare Law</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1015</identifier>
+		<datestamp>2013-07-02T21:42:14Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Lucky: The Sequel</dc:title>
+<dc:creator>Chamallas, Martha</dc:creator>
+<dc:description>Lucky: The Sequel is a review essay based on Alice Sebold’s 1999 memoir Lucky in which Sebold describes her own rape as a college student, her experiences as a rape victim and her navigation of the legal system. Chamallas uses Sebold’s rape narrative to explore themes of particular interest to feminist legal scholars. She discusses the intersection of race and rape, the continuing controversy surrounding the categorization of rape as a crime of violence versus a sex crime and the usefulness of considering the social and cultural dimensions of the trauma of rape.</dc:description>
+<dc:date>2005-05-01T07:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art15</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1015&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Arts and Entertainment</dc:subject>
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Sexuality and the Law</dc:subject>
+<dc:subject>Women</dc:subject>
+<dc:subject>Arts and Entertainment</dc:subject>
+<dc:subject>Civil Rights and Discrimination</dc:subject>
+<dc:subject>Sexuality and the Law</dc:subject>
+<dc:subject>Women</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1011</identifier>
+		<datestamp>2013-07-03T04:08:22Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Regulation NMS: Has the SEC Exceeded its Congressional Mandate to Facilitate a “National Market System” in Securities Trading?</dc:title>
+<dc:creator>Oesterle, Dale A.</dc:creator>
+<dc:description>The SEC is currently holding hearings on sweeping changes to the micro-structure of the country&#39;s securities trading markets - modifying the trade through rule, for example. Professor Oesterle argues that the SEC should not be in the business of so structuring the country&#39;s securities markets in the first place. In the piece he chronicles the SEC&#39;s expansive interpretation of its power under Congress&#39;s 1975 National Market System Amendments to the 1934 Securities and Exchange Act and questions whether Congress intended to grant the SEC such a mandate.</dc:description>
+<dc:date>2005-01-12T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art12</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1011&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Corporations</dc:subject>
+<dc:subject>Securities Law</dc:subject>
+<dc:subject>Corporation and Enterprise Law</dc:subject>
+<dc:subject>Securities Law</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1001</identifier>
+		<datestamp>2015-03-26T18:23:46Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Foreseeing Greatness? Measurable Performance Criteria and the Selection of Supreme Court Justices</dc:title>
+<dc:creator>Brudney, James J.</dc:creator>
+<dc:description>This article contributes to an ongoing debate about the feasibility and desireability of measuring the &#34;merit&#34; of appellate judges--and their consequent Supreme Court potential--by using objective performance variables.  Relying on the provocative and controversial &#34;tournament criteria&#34; proposed by Professors Stephen Choi and Mitu Gulati in two recent articles, Brudney assesses the &#34;Supreme Court potential&#34; of Warren Burger and Harry Blackmun based on their appellate court records. He finds that Burger&#39;s appellate performance appears more promising under the Choi and Gulati criteria, but then demonstrates how little guidance these quantitative assessments actually provide when reviewing the two men&#39;s careers on the Supreme Court.  The article goes on to discuss more generally certain reservations about the performance measurement approach--focusing on the importance of including political and ideological factors from a separation of powers standpoint, and on the further importance of non-quantitative factors such as collegiality and career diversity (i.e. having candidates other than appellate judges).</dc:description>
+<dc:date>2004-12-10T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art3</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1001&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Biography</dc:subject>
+<dc:subject>Courts</dc:subject>
+<dc:subject>Judges</dc:subject>
+<dc:subject>Legal History</dc:subject>
+<dc:subject>Politics</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+<dc:subject>Biography</dc:subject>
+<dc:subject>Courts</dc:subject>
+<dc:subject>Judges</dc:subject>
+<dc:subject>Legal History, Theory and Process</dc:subject>
+<dc:subject>Politics</dc:subject>
+<dc:subject>Public Law and Legal Theory</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:law.bepress.com:osulwps-1002</identifier>
+		<datestamp>2015-03-26T18:23:49Z</datestamp>
+				<setSpec>publication:osulwps</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Neutrality Agreements and Card Check Recognition: Prospects for Changing Paradigms</dc:title>
+<dc:creator>Brudney, James J.</dc:creator>
+<dc:description>This article is the first comprehensive treatment of neutrality agreements, which are themselves the most important development in Labor Law for decades.  The labor movement&#39;s new approach to organizing displaces NLRB-supervised elections with negotiated agreements that provide (i) for employers to remain neutral during an upcoming union campaign, and (ii), in most instances, for employees to decide if they want to be represented through signing authorization cards rather than through a secret ballot election. The article demonstrates the substantial, perhaps predominant, role played by this new contractually-based approach over the past 5-10 years; it also explains why so many employers have chosen to participate.  The article then considers and rejects the principal doctrinal arguments challenging the facial validity of the neutrality and card check approach.  Finally, borrowing from Thomas Kuhn&#39;s famous paradigm-based analysis of how change occurs in the natural sciences, the article responds to the argument that freedom of choice in the union representation context is best realized through the elections process, and instead contends that the government-supervised election paradigm should be substantially modified if not entirely supplanted in light of the evidentiary record over the past 30 years and the development of a credible alternative model.</dc:description>
+<dc:date>2004-12-14T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://law.bepress.com/osulwps/art2</dc:identifier>
+<dc:identifier>http://law.bepress.com/cgi/viewcontent.cgi?article=1002&#38;amp;context=osulwps</dc:identifier>
+<dc:source>The Ohio State University Moritz College of Law Working Paper Series</dc:source>
+<dc:publisher>bepress Legal Repository</dc:publisher>
+
+<dc:subject>Employment Practice</dc:subject>
+<dc:subject>Labor Law</dc:subject>
+<dc:subject>Labor and Employment Law</dc:subject>
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			</ListRecords>
+</OAI-PMH>
