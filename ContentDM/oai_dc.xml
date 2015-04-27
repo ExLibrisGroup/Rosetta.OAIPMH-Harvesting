@@ -1,0 +1,38 @@
+<!-- example harvested from https://server15999.contentdm.oclc.org/oai.php?verb=ListRecords&metadataPrefix=oai_dc&set=Savage2   -->
+<record xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+	<header>
+		<identifier>oai:cdm15999.contentdm.oclc.org:Savage2/255</identifier>
+		<datestamp>2009-10-09</datestamp>
+		<setSpec>Savage2</setSpec>
+	</header>
+	<metadata>
+		<oai_dc:dc> 
+			<dc:identifier>PH 500 49 7</dc:identifier>
+			<dc:title>[Idan-ha Hotel, Soda Springs, Idaho]</dc:title>
+			<dc:creator>Savage, C. R. (Charles Roscoe), 1832-1909;</dc:creator>
+			<dc:description>Photograph of Idan-ha Hotel, Soda Springs, Idaho.</dc:description>
+			<dc:description>Electronic reproduction;</dc:description>
+			<dc:source>C.R. Savage</dc:source>
+			<dc:date>ca. 1890</dc:date>
+			<dc:date>1890;</dc:date>
+			<dc:publisher>Brigham Young University</dc:publisher>
+			<dc:description>15.2 x 20.4 cm. (6 x 8 in.)</dc:description>
+			<dc:source>Intellectual Reserve, Inc.</dc:source>
+			<dc:subject>Soda Springs (Idaho);</dc:subject>
+			<dc:subject>Idan-ha Hotel (Soda Springs, Idaho);</dc:subject>
+			<dc:subject>Soda Springs (Idaho); Idan-ha Hotel (Soda Springs, Idaho);</dc:subject>
+			<dc:subject>Idaho, Caribou, Soda Springs;</dc:subject>
+			<dc:subject>Photographs;</dc:subject>
+			<dc:relation>Charles R. Savage Photograph Collection</dc:relation>
+			<dc:rights>http://lib.byu.edu/about/copyright/church_history.php</dc:rights>
+			<dc:rights>Public Domain; Courtesy Church History Collections, The Church of Jesus Christ of Latter-day Saints and Intellectual Reserve, Inc.</dc:rights>
+			<dc:rights>Public</dc:rights>
+			<dc:type>Image</dc:type>
+			<dc:format>Image/j2k</dc:format>
+			<dc:identifier>PH500_fd49_item-7.jpg</dc:identifier>
+			<dc:coverage>42.658680 -111.603077</dc:coverage>
+			<dc:coverage>16 Street;</dc:coverage>
+			<dc:identifier>http://cdm15999.contentdm.oclc.org/cdm/ref/collection/Savage2/id/255</dc:identifier>
+		</oai_dc:dc>
+	</metadata>
+</record>
